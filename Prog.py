@@ -1,3 +1,6 @@
 def add(x,y):
     return x+y
-add(3,5)
+def subtract(x,y)
+    return x-y
+print(add(3,5))
+print(subtract(5,3))
